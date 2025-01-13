@@ -1,1 +1,1 @@
-# chatbot
+To develop a chatbot that answers "how-to" questions about Customer Data Platforms (CDPs), including Segment, mParticle, Lytics, and Zeotap. The chatbot should retrieve relevant information from the official documentation of these platforms to guide users in performing tasks or achieving specific outcomes
